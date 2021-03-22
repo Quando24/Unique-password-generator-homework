@@ -41,5 +41,6 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
 ## Screenshot 
+![Unique-Password-Generator-homework](https://user-images.githubusercontent.com/76064980/111933528-0ba4a880-8a96-11eb-97bf-c25654da6614.png)
 
 ---
